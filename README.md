@@ -22,7 +22,7 @@ H<sub>a</sub>: PSI across all manufacturing lots is not statistically different 
 
 ![image](https://user-images.githubusercontent.com/97318406/165226366-50b5480c-2cf8-4f86-b46f-194962d704ec.png)
 
-Based on the common 0.05 signifigance level, with the p-value of 0.06028, there is no significant evidence to reject the null hypothesis. 
+Based on the common 0.05 significance level, with the p-value of 0.06028, there is not significant evidence to reject the null hypothesis. 
 
 ### Hypothesis(each manufacturing lot)
 H<sub>0</sub>: PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
@@ -33,6 +33,6 @@ H<sub>a</sub>: PSI for each manufacturing lot is statistically different from th
 ![image](https://user-images.githubusercontent.com/97318406/165226600-71212c69-9c68-4f43-83fd-7a67be4514f2.png)
 ![image](https://user-images.githubusercontent.com/97318406/165228144-441bdadf-f0e9-4f0c-b4e8-4bdeb3bbc64d.png)
 
-
+Both Lot1 and Lot2 have a p-value greater than the 0.05 significance level, therfore there is not significant evidence to reject the null hypothesis. Lot3 has a p-value of 0.04168 indicating there is less than 5% probability that the null hypothesis is correct. The null hypothesis is rejected for Lot3.
 
 ## Study Design: MechaCar vs Competition

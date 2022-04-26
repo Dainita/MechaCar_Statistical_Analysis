@@ -15,7 +15,7 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Although this requirement is met for all manufacturing lots in total with a variance of 62.29, Lot #3 exceeds the specification with a variance of 170.29.
 
 ## T-Tests on Suspension Coils
-### Hypothesis
+### Hypothesis(all manufacturing lots)
 H<sub>0</sub>: PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 
 H<sub>a</sub>: PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch.
@@ -24,9 +24,14 @@ H<sub>a</sub>: PSI across all manufacturing lots is not statistically different 
 
 Based on the common 0.05 signifigance level, with the p-value of 0.06028, there is no significant evidence to reject the null hypothesis. 
 
+### Hypothesis(each manufacturing lot)
+H<sub>0</sub>: PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
+
+H<sub>a</sub>: PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
+
 ![image](https://user-images.githubusercontent.com/97318406/165226480-52e70e13-74bc-48dc-ba9a-9936479392b4.png)
 ![image](https://user-images.githubusercontent.com/97318406/165226600-71212c69-9c68-4f43-83fd-7a67be4514f2.png)
-![image](https://user-images.githubusercontent.com/97318406/165226917-2856148e-bd8e-4dd2-8f2b-bb0346c03e60.png)
+![image](https://user-images.githubusercontent.com/97318406/165228144-441bdadf-f0e9-4f0c-b4e8-4bdeb3bbc64d.png)
 
 
 

@@ -19,3 +19,15 @@ The design specifications for the MechaCar suspension coils dictate that the var
 H<sub>0</sub>: PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 
 H<sub>a</sub>: PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch.
+
+![image](https://user-images.githubusercontent.com/97318406/165226366-50b5480c-2cf8-4f86-b46f-194962d704ec.png)
+
+Based on the common 0.05 signifigance level, with the p-value of 0.06028, there is no significant evidence to reject the null hypothesis. 
+
+![image](https://user-images.githubusercontent.com/97318406/165226480-52e70e13-74bc-48dc-ba9a-9936479392b4.png)
+![image](https://user-images.githubusercontent.com/97318406/165226600-71212c69-9c68-4f43-83fd-7a67be4514f2.png)
+![image](https://user-images.githubusercontent.com/97318406/165226917-2856148e-bd8e-4dd2-8f2b-bb0346c03e60.png)
+
+
+
+## Study Design: MechaCar vs Competition

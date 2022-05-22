@@ -18,7 +18,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ### Hypothesis(all manufacturing lots)
 H<sub>0</sub>: PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 
-H<sub>a</sub>: PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch.
+H<sub>a</sub>: PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
 
 ![image](https://user-images.githubusercontent.com/97318406/165226366-50b5480c-2cf8-4f86-b46f-194962d704ec.png)
 
@@ -36,3 +36,12 @@ H<sub>a</sub>: PSI for each manufacturing lot is statistically different from th
 Both Lot1 and Lot2 have a p-value greater than the 0.05 significance level, therfore there is not significant evidence to reject the null hypothesis. Lot3 has a p-value of 0.04168 indicating there is less than 5% probability that the null hypothesis is correct. The null hypothesis is rejected for Lot3.
 
 ## Study Design: MechaCar vs Competition
+The auto industry is flooded with competition. Consumers consider many different factors and the most important factor probably will not be the same for each consumer. 
+Fuel efficiency, horespower, maintenace cost, safety rating, each consumer will be interested in a different factor. To truly test MechaCar against the competition, all of the factors need to be considered. 
+### Hypothesis
+
+H<sub>0</sub>: MechaCar does not provide a superior product with advantages over the competition.
+
+H<sub>a</sub>: MechaCar provides a superior product with advantages over the competition.
+
+Creating a comparative analysis of data from MechaCar and the competition which includes the determining factors in product superiority would include gathering the data for each competitor, fuel efficiency, horsepower, maintenance cost, and safety rating and performing the summary statistics. 
